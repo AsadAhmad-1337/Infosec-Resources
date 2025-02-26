@@ -162,6 +162,8 @@ https://strykerdefence.com/
 
 https://cybersectools.com/
 
+https://github.com/Ahmed-makawi/js-secret-scanner
+
 # 🕵🏻 Digital Forensics:
 # Windows 
 
