@@ -164,6 +164,8 @@ https://cybersectools.com/
 
 https://github.com/Ahmed-makawi/js-secret-scanner
 
+https://github.com/p0dalirius/FindGPPPasswords
+
 # 🕵🏻 Digital Forensics:
 # Windows 
 
