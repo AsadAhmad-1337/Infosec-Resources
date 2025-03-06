@@ -162,6 +162,8 @@ https://strykerdefence.com/
 
 https://cybersectools.com/
 
+https://github.com/mcnamee/huntkit
+
 https://github.com/Ahmed-makawi/js-secret-scanner
 
 https://github.com/p0dalirius/FindGPPPasswords
