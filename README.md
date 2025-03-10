@@ -184,3 +184,8 @@ https://drive.google.com/file/d/1PSpQVkkS-O1BgfvtrAPdxbk-Fb6msyjz/view
 # 🚹 Social Engineering:
 
 https://github.com/fin3ss3g0d/evilgophish
+
+# 🧩🤔🧠OSINT:
+# Munitions🪖⚔️
+
+https://osmp.ngo/
