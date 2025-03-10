@@ -4,6 +4,10 @@
 
 https://book.hacktricks.xyz/pentesting-web/nosql-injection
 
+# 🪲Bug Bounty💰
+
+https://github.com/yogsec/OneLinerBounty
+
 # 🏁 CTF :
 
 Sites for Improving Your Hacking Skills
@@ -119,6 +123,10 @@ https://www.udemy.com/course/red-hat-rhcsa-practical-exams/?&couponCode=RHCSA-FR
 
 https://www.udemy.com/course/mastering-command-injection-the-ultimate-hands-on-course/?couponCode=A1432C9E447465295021
 
+# 🔐Physical Pentest Tools:
+
+https://github.com/yogsec/Physical-Pentesting-Tools
+
 # 📻 BLE Pentest:
 
 https://book.hacktricks.xyz/todo/radio-hacking/pentesting-ble-bluetooth-low-energy
@@ -172,3 +180,7 @@ https://github.com/p0dalirius/FindGPPPasswords
 # Windows 
 
 https://drive.google.com/file/d/1PSpQVkkS-O1BgfvtrAPdxbk-Fb6msyjz/view
+
+# 🚹 Social Engineering:
+
+https://github.com/fin3ss3g0d/evilgophish
