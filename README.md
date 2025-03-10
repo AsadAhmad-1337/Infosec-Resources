@@ -4,11 +4,11 @@
 
 https://book.hacktricks.xyz/pentesting-web/nosql-injection
 
-# 🪲Bug Bounty💰
+# 🪲💰Bug Bounty:
 
 https://github.com/yogsec/OneLinerBounty
 
-# 🏁 CTF :
+# 🚩CTF :
 
 Sites for Improving Your Hacking Skills
 
