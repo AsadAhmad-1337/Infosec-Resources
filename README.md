@@ -176,6 +176,10 @@ https://github.com/Ahmed-makawi/js-secret-scanner
 
 https://github.com/p0dalirius/FindGPPPasswords
 
+# Obfuscation 🗝️
+
+https://github.com/TaurusOmar/psobf
+
 # 🕵🏻 Digital Forensics:
 # Windows 
 
