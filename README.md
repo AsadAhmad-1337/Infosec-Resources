@@ -197,3 +197,11 @@ https://github.com/snooptsz/findanyfile
 # 🪖⚔️Munitions
 
 https://osmp.ngo/
+
+# Ⓜ️Miscellaneous
+
+https://github.com/kikyps/GarudaDefender
+
+https://github.com/everythingBlackkk/Youtube_C2
+
+https://github.com/shinyelectron/LNK-Exploit
