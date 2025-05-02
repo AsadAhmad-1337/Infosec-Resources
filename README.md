@@ -190,6 +190,11 @@ https://drive.google.com/file/d/1PSpQVkkS-O1BgfvtrAPdxbk-Fb6msyjz/view
 https://github.com/fin3ss3g0d/evilgophish
 
 # 🧩🤔🧠OSINT:
+
+# ☁️ Cloud Osint
+
+https://github.com/7WaySecurity/cloud_osint
+
 # 📑🔎 Find Any File
 
 https://github.com/snooptsz/findanyfile
